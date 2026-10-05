@@ -1,4 +1,7 @@
 # 📊 Relatório Executivo: Diagnóstico de Churn no ERP SaaS
+
+##Ferramentas Utilizadas: Python, Pandas (para ETL e manipulação), Matplotlib/Seaborn (para Data Viz)
+
 1. O Perfil de Maior Risco (Quem cancela?)
 Identificamos que 100% da evasão está concentrada em Micro e Pequenas Empresas (MPEs), com destaque negativo para estruturas enxutas (até 5 funcionários) e sem quadro societário complexo (apenas um dono).
 
